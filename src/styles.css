@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+.ngx-datatable .datatable-footer .datatable-pager {
+    flex: 1 1 80%;
+    text-align: right;
+    display: none !important;
+  }
+  
